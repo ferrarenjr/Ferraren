@@ -22,7 +22,7 @@ body {
 }
 
 .pic1 {
-    background-image: url('pic 1.png'); 
+    background-image: url('attatchments/pic 1.png'); 
     background-size: cover;
     width: 100%;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .pic2 {
-    background-image: url('wave.jpg');
+    background-image: url('attatchments/wave.jpg');
 }
 
 .projects {
