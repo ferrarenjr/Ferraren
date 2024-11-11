@@ -1,0 +1,26 @@
+h2{
+	font-size:20px;
+	color: brown;
+}
+
+.students{
+	color:blue;
+}
+
+.myTable{
+	border-color: red;
+	text-align:left;
+}
+
+.iDoodle{
+	color:green;
+}
+
+.row1{
+	background-color:red;
+	color:white;
+}
+
+.course{
+	color:red;
+}
